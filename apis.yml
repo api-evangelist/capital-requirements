@@ -5,6 +5,10 @@ name: Capital Requirements
 tags:
   - Capital Requirements
   - Finance
+  - Regulations
+tags_raw:
+  - Capital Requirements
+  - Finance
   - Regulation
 type: Index
 accessModel:
