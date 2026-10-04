@@ -2,6 +2,7 @@ aid: capital-requirements
 url: >-
   https://raw.githubusercontent.com/api-evangelist/capital-requirements/refs/heads/main/apis.yml
 name: Capital Requirements
+kind: topic
 tags:
   - Capital Requirements
   - Finance
@@ -49,3 +50,4 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 specificationVersion: '0.23'
+x-type: concept
